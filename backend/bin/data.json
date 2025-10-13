@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Casual Shirt",
+        "price": 29.99,
+        "category": "men's clothing"
+    },
+    {
+        "name": "Summer Dress",
+        "price": 49.99,
+        "category": "women's clothing"
+    },
+    {
+        "name": "Leather Jacket",
+        "price": 89.99,
+        "category": "men's clothing"
+    },
+    {
+        "name": "Evening Gown",
+        "price": 120.00,
+        "category": "women's clothing"
+    },
+    {
+        "name": "Jeans",
+        "price": 39.99,
+        "category": "men's clothing"
+    },
+    {
+        "name": "Blouse",
+        "price": 25.99,
+        "category": "women's clothing"
+    },
+    {
+        "name": "T-Shirt",
+        "price": 15.99,
+        "category": "men's clothing"
+    },
+    {
+        "name": "Skirt",
+        "price": 35.50,
+        "category": "women's clothing"
+    },
+    {
+        "name": "Sweater",
+        "price": 45.00,
+        "category": "men's clothing"
+    },
+    {
+        "name": "Cardigan",
+        "price": 55.00,
+        "category": "women's clothing"
+    }
+]
